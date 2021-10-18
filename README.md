@@ -1,1 +1,3 @@
-# julia_for_datascience
+# Julia for Data Science
+
+at [JuliaAcademy](https://juliaacademy.com/)
